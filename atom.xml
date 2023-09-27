@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-22T07:23:13.200Z</updated>
+  <updated>2023-09-27T05:23:39.980Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>价值思考&amp;时代的蝼蚁</title>
+    <link href="http://example.com/2023/09/27/%E8%87%AA%E6%88%91%E5%AE%9E%E7%8E%B0%E4%BB%B7%E5%80%BC%E6%80%9D%E8%80%83/"/>
+    <id>http://example.com/2023/09/27/%E8%87%AA%E6%88%91%E5%AE%9E%E7%8E%B0%E4%BB%B7%E5%80%BC%E6%80%9D%E8%80%83/</id>
+    <published>2023-09-27T07:29:37.000Z</published>
+    <updated>2023-09-27T05:23:39.980Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="何为实现自我价值？"><a href="#何为实现自我价值？" class="headerlink" title="何为实现自我价值？"></a>何为实现自我价值？</h1><p>现代社会内卷到底如何？有识之士在嘴边只是当一个流行词汇使用，更多的专注当下“造牢自己的锤子”。<br>作为为企业创造工具人的教育背景下，由无知状态到飞行器动力专业再到图像处理专业再到智能硬件端系统测试转岗到网络安全岗位，一直以来自己那种渴望应用实践得到反馈的(或者说是创造)价值观都未得到极大满足。</p><blockquote><p>注：反馈的形式很多，他人的认可、经济回报、市场的认可</p></blockquote><p>自己从小家庭环境缘故社交能力很一般，偏爱于做一些手工，木琴、木凳子、木剑、土洞等，农村那种封闭的环境何来需求创造一说。你的创作在家人看来只是茶余饭后，不会陪你了解你内心鼓励发展。失去了很多探索自我的可能。</p><p>小时候比较爱看的栏目《我爱发明》有想法家长也不会支持你去实践。其实作为青年来说内心是很压抑的。转而更多是去看各类肥皂剧。</p><p>忙忙碌碌，疲于寻找依靠点。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;何为实现自我价值？&quot;&gt;&lt;a href=&quot;#何为实现自我价值？&quot; class=&quot;headerlink&quot; title=&quot;何为实现自我价值？&quot;&gt;&lt;/a&gt;何为实现自我价值？&lt;/h1&gt;&lt;p&gt;现代社会内卷到底如何？有识之士在嘴边只是当一个流行词汇使用，更多的专注当下“造牢自己</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>md基本语法</title>
